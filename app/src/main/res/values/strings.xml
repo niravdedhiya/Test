@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo app</string>
+
+    <array name="departments">
+        <item>Developer</item>
+        <item>Designer</item>
+        <item>Research and Development</item>
+        <item>Marketing</item>
+        <item>Manager</item>
+        <item>Tester</item>
+    </array>
+</resources>
